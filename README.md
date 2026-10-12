@@ -23,8 +23,6 @@ I build the automation behind LoanBazaar's marketing: n8n workflows that create 
 |---|---|---|
 | LoanBazaar Marketing Desk | Team dashboard with approvals, campaign results, reports and the SmartOps AI assistant | Node.js, Docker, SQLite, Apps Script, n8n, Groq |
 | Social media automation | Picks a product, writes the caption, makes a branded image and posts it, with email approval | n8n, Groq, FastAPI |
-| AgentCity | Multi-agent AI for civic complaints (final-year research) | Python, AutoGen, ChromaDB, Next.js, React Native |
-| InterviewerAI | Adaptive AI mock interviews with scoring and PDF reports | React, TypeScript, Express, Gemini |
 | OM Enterprises systems | Attendance, payroll and GST invoicing for a paint contracting business | React, n8n, Google Sheets |
 | Contract Management System | Tracks contracts, parties, dates and status | Python, Tkinter, MySQL |
 

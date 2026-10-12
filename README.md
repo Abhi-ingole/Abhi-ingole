@@ -26,6 +26,11 @@ I build the automation behind LoanBazaar's marketing: n8n workflows that create 
 | AgentCity | Multi-agent AI for civic complaints (final-year research) | Python, AutoGen, ChromaDB, Next.js, React Native |
 | InterviewerAI | Adaptive AI mock interviews with scoring and PDF reports | React, TypeScript, Express, Gemini |
 | OM Enterprises systems | Attendance, payroll and GST invoicing for a paint contracting business | React, n8n, Google Sheets |
+| Contract Management System | Tracks contracts, parties, dates and status | Python, Tkinter, MySQL |
 
-### Education
-B.Sc. Computer Science, Bhavan's College, Mumbai (2026) · Microsoft Power BI certification (2026)
+### Education and recognition
+- B.Sc. Computer Science, Bhavan's College, Andheri West, Mumbai (2026)
+- Student of the Year 2026–27, Bhavan's College
+- Overall NSS Leader, Bhavan's College
+- Scout and Guide State Award
+- Microsoft Power BI certification (2026); Tata Data Visualisation and Cybersecurity job simulations (Forage)
